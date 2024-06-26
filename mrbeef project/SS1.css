@@ -1,0 +1,23 @@
+.h1{
+    background-color: red;
+    font-size: 19px;
+    margin: auto;
+    width: 20%;
+    border: 2px solid #000
+    ;
+    padding: 20px;
+}
+
+
+
+
+
+.sitemap{
+    background-color: blueviolet;
+    font-size: 19px;
+    margin: auto;
+    width: 20%;
+    border: 2px solid #000
+    ;
+    padding: 10px;
+}
